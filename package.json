@@ -1,0 +1,16 @@
+{
+  "name": "radioheavybot-twitch",
+  "version": "0.0.0",
+  "description": "A Twitch.tv Moderator Bot",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RadioHeavy",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.5"
+  }
+}
